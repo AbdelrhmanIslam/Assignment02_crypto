@@ -1,7 +1,0 @@
-hello in this repo contain three files:
-    first file:
-          monalph.
-    sec file(bouns):
-          decrypt_with_frequency_analyse
-    third file:
-         playfair.
